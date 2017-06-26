@@ -1,1 +1,1 @@
-Trimurthi Foundation Website content
+Trimurthi Foundation Website static content
